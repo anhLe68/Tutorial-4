@@ -5,3 +5,7 @@ date: 27/03/2024
 format: html
 editor: visual
 ---
+```{r}
+library(tidyverse)
+```
+
